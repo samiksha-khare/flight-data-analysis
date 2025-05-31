@@ -1,7 +1,8 @@
 # Flight Data Analysis / Flight Status BI Project
 
 This project analyzes 19M+ flight records (sourced from Kaggle in Parquet format) to uncover trends in delays, taxi times, and cancellations—driving insights for improved airline scheduling and operational efficiency.
-[▶️ View the Flight Data Visualization](https://public.tableau.com/views/flight-data-visualization/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[View the Flight Data Visualization](https://public.tableau.com/views/flight-data-visualization/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard
 ![dashboard](dashboard.png)
